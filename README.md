@@ -55,14 +55,17 @@ Adjusted school top 5
 
 #### Math and reading scores by grade
 
-Original math score summary(Left table) & Adjusted math score summary(Right table)
-
+Original math score summary
 ![original math score by grade](https://github.com/ivorfanning/School_District_Analysis/blob/main/Analysis%20Pictures/original%20math%20score%20by%20grade.png)
+
+Adjusted math score summary
 ![adjusted math score by grade](https://github.com/ivorfanning/School_District_Analysis/blob/main/Analysis%20Pictures/Adjusted%20math%20score%20by%20grade.png)
 
-Original reading score summary(Left table) & Adjusted reading score summary(Right table)
+Original reading score summary
 
 ![original reading score by grade](https://github.com/ivorfanning/School_District_Analysis/blob/main/Analysis%20Pictures/original%20reading%20score%20by%20grade.png)
+
+Adjusted reading score summary
 ![adjusted reading score by grade](https://github.com/ivorfanning/School_District_Analysis/blob/main/Analysis%20Pictures/Adjusted%20reading%20score%20by%20grade.png)
 
 *Due to removing the 9th grader's math and reading scores, the math and reading scores of 9th grader in Thomas High School are substituted by NaN as we can see in the below tables, however the scores of other school and the 10th-12th grader in Thomas High School are remain intacted.*
